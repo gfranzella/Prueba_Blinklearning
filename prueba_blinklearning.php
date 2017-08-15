@@ -1,6 +1,6 @@
 <?php
 
-/*
+/
 $ar = array("1"=>9,4,3,0);
 //echo is_array($ar);
 //echo $ar[0];
@@ -25,7 +25,7 @@ function sumaArray($ar)
 	}
 	return $sum1+$sum2;
 }
-*/
+
 /*
 $i=0;
 while ($i=1) 
